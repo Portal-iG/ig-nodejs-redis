@@ -1,0 +1,12 @@
+{
+	"name": "ig-nodejs-redis",
+	"version": "0.1.0",
+	"author": "Ricardo Massa <rgermano@igcorp.com.br>",
+	"main": "lib/index.js",
+ 	"dependencies": {
+    	"winston": "0.7.x",
+    	"redis": "0.10.x"
+  	},
+  	"devDependencies": {
+  	}
+}
